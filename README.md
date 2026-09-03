@@ -1,2 +1,2 @@
 # Game-Developer
-Belajar Github pertama kali
+Belajar Github pertama kali bruh
